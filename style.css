@@ -1,0 +1,19 @@
+body{
+    margin: 0; padding: 0;
+}
+
+
+section {
+    width: 1240px;
+    margin: 0 auto; 
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar .right-section p, h4{
+    margin: 0; padding: 0;
+}
+
+.navbar .right-section p {}
